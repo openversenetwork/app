@@ -15,7 +15,7 @@
 
 </div>
 
-`Open Dashboard` is a light explorer for Cosmos-based Blockchains.  https://ping.pub .
+`Open Dashboard` is a light explorer for Versed-based Blockchains.  https://app.openverse.network .
 
 ## What sets Open Dashboard apart from other explorers?
 **Open Dashboard** stands out by providing a real-time exploration of blockchain data without relying on caching or pre-processing. It exclusively fetches data from the Cosmos full node via LCD/RPC endpoints, ensuring a truly authentic experience. This approach is referred to as the "Light Explorer."
