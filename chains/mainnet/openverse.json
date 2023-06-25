@@ -1,0 +1,93 @@
+{
+    "chain_name": "openverse",
+    "api": ["https://api1.openverse.network"],
+    "rpc": ["https://apn1.openverse.network"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.2",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "open",
+    "logo": "/logos/openverse.png",
+    "theme_color": "#ed4e33",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "aenergy",
+        "symbol": "φ",
+        "exponent": "18",
+        "coingecko_id": "energy",
+        "logo": "/logos/energy.png"
+    },{
+        "base": "aBitgold",
+        "symbol": "BTG",
+        "exponent": "18",
+        "coingecko_id": "bitgold",
+        "logo": "/logos/bitgold.png"
+    },{
+        "base": "aUSD",
+        "symbol": "USD",
+        "exponent": "18",
+        "coingecko_id": "USD",
+        "logo": "/logos/USD/USD.png"
+    }
+    ,{
+        "base": "aAUD",
+        "symbol": "AUD",
+        "exponent": "18",
+        "coingecko_id": "AUD",
+        "logo": "/logos/AUD/AUD.png"
+    }
+    ,{
+        "base": "aCAD",
+        "symbol": "CAD",
+        "exponent": "18",
+        "coingecko_id": "CAD",
+        "logo": "/logos/CAD/CAD.png"
+    },{
+        "base": "aEUR",
+        "symbol": "EUR",
+        "exponent": "18",
+        "coingecko_id": "EUR",
+        "logo": "/logos/EUR/EUR.png"
+    },{
+        "base": "aGBP",
+        "symbol": "GBP",
+        "exponent": "18",
+        "coingecko_id": "GBP",
+        "logo": "/logos/GBP/GBP.png"
+    }
+    ,{
+        "base": "aJPY",
+        "symbol": "JPY",
+        "exponent": "18",
+        "coingecko_id": "JPY",
+        "logo": "/logos/JPY/JPY.png"
+    } ,{
+        "base": "aRUB",
+        "symbol": "RUB",
+        "exponent": "18",
+        "coingecko_id": "RUB",
+        "logo": "/logos/RUB/RUB.png"
+    }
+    ,{
+        "base": "aSGD",
+        "symbol": "SGD",
+        "exponent": "18",
+        "coingecko_id": "SGD",
+        "logo": "/logos/SGD/SGD.png"
+    },{
+        "base": "aXAU",
+        "symbol": "XAU",
+        "exponent": "18",
+        "coingecko_id": "XAU",
+        "logo": "/logos/XAU/XAU.png"
+    }
+    ,{
+        "base": "aXAG",
+        "symbol": "XAG",
+        "exponent": "18",
+        "coingecko_id": "XAG",
+        "logo": "/logos/XAG/XAG.png"
+    }
+
+]
+}
